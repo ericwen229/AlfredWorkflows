@@ -35,10 +35,6 @@ some workflows I wrote for Alfred
 
 查询本学期课程表
 
-## SSPai
-
-查询少数派热门文章
-
 ## Hacker News
 
 查询Hacker News热门文章
