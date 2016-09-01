@@ -5,12 +5,14 @@ some workflows I wrote for Alfred
 ## Netease Music Controls
 
 控制网易云音乐：
+
 * 播放
 * 暂停
 * 上一首
 * 下一首
 * 喜欢当前歌曲
 * 取消喜欢当前歌曲
+
 （该workflow包含remote功能）
 
 ## Lilybbs Top 10 Topics
