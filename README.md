@@ -4,37 +4,27 @@ some workflows I wrote for Alfred
 
 ## Netease Music Controls
 
-控制网易云音乐：
+Control Netease Music to:
 
-* 播放
-* 暂停
-* 上一首
-* 下一首
-* 喜欢当前歌曲
-* 取消喜欢当前歌曲
+* play/pause current song
+* play previous/next song
+* like/dislike current song
 
-（该workflow包含remote功能）
+Examples:
 
-## Lilybbs Top 10 Topics
+**nm**toggle: play/pause current song
+**nm**prev: play previous song
+**nm**next: play next song
+**nm**like: like/dislike current song
 
-查询当前百合十大话题
+(this workflow includes remote page)
 
-## NJU Exercise Query
+## WikiLater
 
-查询本学期打卡次数
+Add a Wikipedia page to Safari's reading list
 
-## NJU Network Login
+Examples:
 
-登录/登出校园网络认证系统
+**wikile** Turing: Search en.wikipedia.org for 'Turing' and add the result page to reading list
+**wikilz** 图灵: Search zh.wikipedia.org for '图灵' and add the result page to reading list
 
-## NJU Score Query
-
-查询各学期期末考成绩
-
-## NJU Timetable
-
-查询本学期课程表
-
-## Hacker News
-
-查询Hacker News热门文章
