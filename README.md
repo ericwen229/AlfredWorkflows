@@ -12,10 +12,10 @@ Control Netease Music to:
 
 Examples:
 
-**nm**toggle: play/pause current song
-**nm**prev: play previous song
-**nm**next: play next song
-**nm**like: like/dislike current song
+* **nm**toggle: play/pause current song
+* **nm**prev: play previous song
+* **nm**next: play next song
+* **nm**like: like/dislike current song
 
 (this workflow includes remote page)
 
@@ -25,6 +25,6 @@ Add a Wikipedia page to Safari's reading list
 
 Examples:
 
-**wikile** Turing: Search en.wikipedia.org for 'Turing' and add the result page to reading list
-**wikilz** 图灵: Search zh.wikipedia.org for '图灵' and add the result page to reading list
+* **wikile** Turing: Search en.wikipedia.org for 'Turing' and add the result page to reading list
+* **wikilz** 图灵: Search zh.wikipedia.org for '图灵' and add the result page to reading list
 
