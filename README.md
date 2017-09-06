@@ -19,6 +19,15 @@ Examples:
 
 (this workflow includes remote page)
 
+##### New: Native style of Netease Music control
+Now you can control Netease Music and iTunes with the same set of commands:
+- `play` or `pause` for Play / Pause track
+- `next` for Next track
+- `previous` for Previous track
+- `like` for Like track (Netease Music only)
+
+![itunes_n_netease_control](itunes_n_netease_control.png)
+
 ## WikiLater
 
 Add a Wikipedia page to Safari's reading list
