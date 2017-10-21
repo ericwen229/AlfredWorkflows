@@ -1,6 +1,16 @@
 # AlfredWorkflows
 
-some workflows I wrote for Alfred
+Some workflows I wrote for Alfred.
+
+## Clip&OCR
+
+Run OCR with image in the clipboard
+
+It's really simple to use, just:
+
+* Copy an image from somewhere or take a screenshot using Command+Shift+Ctrl+3/4
+* Run this workflow by entering 'ocr'
+* Paste result from clipboard
 
 ## Netease Music Controls
 
