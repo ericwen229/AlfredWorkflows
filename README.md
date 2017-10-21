@@ -26,7 +26,7 @@ Now you can control Netease Music and iTunes with the same set of commands:
 - `previous` for Previous track
 - `like` for Like track (Netease Music only)
 
-![itunes_n_netease_control](itunes_n_netease_control.png)
+![itunes_n_netease_control](https://user-images.githubusercontent.com/12076189/31847056-9f1b5b8a-b647-11e7-9e9b-cc12daf901c9.png)
 
 ## WikiLater
 
